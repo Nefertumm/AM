@@ -34,7 +34,7 @@ def plot_decision_regions(X, y, clasificador, test_idx=None, resolution=0.02):
 
     # resalta las muestras de prueba
     if test_idx:        
-        X_test, y_test = X[test_idx, :], y[test_idx]
+        X_test, y_test = X[test_idx], y[test_idx]
 
         plt.scatter(X_test[:, 0],
                     X_test[:, 1],
