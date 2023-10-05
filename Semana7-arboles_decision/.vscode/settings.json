@@ -7,5 +7,5 @@
     "jupyter.notebookFileRoot": "${workspaceFolder}",
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 14,
-    "window.zoomLevel": 2
+    "window.zoomLevel": 1
 }
